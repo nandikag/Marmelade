@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Add your notes here, e.g. how to get the application running or what your application is meant to do etc etc
 
 Things you may want to cover:
 
@@ -22,3 +21,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
